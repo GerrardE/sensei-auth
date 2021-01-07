@@ -1,0 +1,9 @@
+export { default as Eye } from "./images/sensei-eye.png";
+export { default as PlayButton } from "./images/sensei-play-button.png";
+export { default as SliderOne } from "./images/sensei-slider-1.png";
+export { default as SliderTwo } from "./images/sensei-slider-2.png";
+export { default as SliderThree } from "./images/sensei-slider-3.png";
+export { default as GoogleStore } from "./images/sensei-google-store.png";
+export { default as AppleStore } from "./images/sensei-apple-store.png";
+export { default as Smiley } from "./images/sensei-smiley.png";
+export { default as UnSmiley } from "./images/sensei-unsmiley.png";
